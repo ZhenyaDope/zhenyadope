@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### Frontend Developer / living in Krasnodar :ru: /
+### Frontend Developer / living in Krasnodar :ru: 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=zhenyadope&show_icons=true&theme=default)](https://github.com/zhenyadope)
 
