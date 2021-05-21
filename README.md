@@ -3,9 +3,9 @@
 
 ### Frontend Developer / living in Krasnodar
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=zhenyadope&show_icons=true&theme=default)](https://github.com/zhenyadope)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=zhenyadope&show_icons=true&theme=vue)](https://github.com/zhenyadope)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenyadope&show_icons=true&theme=default)](https://github.com/zhenyadope)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenyadope&show_icons=true&theme=vue)](https://github.com/zhenyadope)
 
 ![Profile views](https://gpvc.arturio.dev/zhenyadope)
 
